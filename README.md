@@ -1,5 +1,5 @@
 # Transient-Holocene-AMOC
-This repository holds the data that used for plotting the figures in the paper. 
+This repository holds the data that used for plotting the figures in the paper. \n
 The Folder 'Original_max_amoc_30n_data' has all the original data for the maximum AMOC strength at 30N below 500m for each transient run. The CCSM3 and IPSL runs provide decdal data. All other runs provide annual data.
 The remaining folders have the data which can be download to reproduce the Fig 1, 2,3,4 in this paper: 
 (1) Folder 'max_AMOC_30n' provides smoothed time series data for the maximum AMOC at 30N (100-yr running mean), 
